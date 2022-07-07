@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/BankingApp/app/src/main/res/drawable/rounded_corner.xml" value="0.1" />
+        <entry key="..\:/BankingApp/app/src/main/res/layout/activity_customer.xml" value="0.20416666666666666" />
+        <entry key="..\:/BankingApp/app/src/main/res/layout/activity_main.xml" value="0.19947916666666668" />
+        <entry key="..\:/BankingApp/app/src/main/res/layout/activity_transfer_money.xml" value="0.20416666666666666" />
+        <entry key="..\:/BankingApp/app/src/main/res/layout/activity_view_all_customers.xml" value="0.2078125" />
+        <entry key="..\:/BankingApp/app/src/main/res/layout/activity_view_one_customer.xml" value="0.203125" />
+        <entry key="..\:/BankingApp/app/src/main/res/layout/transfer_money_fraglayout.xml" value="0.20416666666666666" />
+        <entry key="..\:/BankingApp/app/src/main/res/layout/user_layout.xml" value="0.20416666666666666" />
+        <entry key="..\:/BankingApp/app/src/main/res/layout/view_one_customer_fragment.xml" value="0.20416666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
